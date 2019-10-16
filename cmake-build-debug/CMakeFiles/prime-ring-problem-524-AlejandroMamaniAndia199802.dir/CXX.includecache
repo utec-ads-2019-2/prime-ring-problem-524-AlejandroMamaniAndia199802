@@ -1,0 +1,14 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/albin/Desktop/Documents/GitHub/ALGORITMOS/UVAS DEL MAL/UVA_524/main.cpp
+iostream
+-
+cmath
+-
+
